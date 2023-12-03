@@ -25,7 +25,7 @@ db.employeesCollection.find() [or any other transaction]
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vicjuma/101394258_comp3123_assignment2_reactjs.git
+   git clone https://github.com/Onigiri0998/101394258_comp3123_assignment2_reactjs.git
    ```
 
 2. Navigate to the project directory:
